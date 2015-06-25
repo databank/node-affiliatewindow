@@ -11,9 +11,9 @@ AffiliateWindow Affiliate Network Reports
 
 ```
 	var $config = {
-		api_username: 123456, // your Publisher ID
-		api_password: '48-char-lenght-hash',  // Affiliate API Password (hash)
-		api_key: "32-char-length-hash" // ProductServe API Password ( V3 MD5 )
+		PublisherId: 123456, // your Publisher ID
+		AffiliateApiPassword: '48-char-lenght-hash',
+		ProductServeAPIPassword: "32-char-length-hash" // ( V3 MD5 )
 	}
 	var $affw = require('dbk-affiliatewindow').Affiliate($config)
 
