@@ -9,7 +9,7 @@
 		"affiliatewindow",
 		"affiliate window"
 	],
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"homepage": "http://databank.github.com/node-affiliatewindow",
 	"bugs": "https://github.com/databank/node-affiliatewindow/issues",
 	"repository": {
